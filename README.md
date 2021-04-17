@@ -11,3 +11,5 @@ They also show the dramatic increase of riders in the following months due to th
   4. Ridership increases during the weekend
   5. Ridership in JC is more popular near major transportation hubs
 
+[Tableau Viz](https://public.tableau.com/profile/alice.sartori#!/vizhome/CityBikeinJerseyCity/CityBikeserviceandincomesalaries)
+
